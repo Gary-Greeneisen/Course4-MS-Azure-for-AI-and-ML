@@ -31,7 +31,7 @@
     <Compile Include="Monitoring Deployed Models.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="sing Diagnostic and Monitoring Tools.py">
+    <Compile Include="Using Diagnostic and Monitoring Tools.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
